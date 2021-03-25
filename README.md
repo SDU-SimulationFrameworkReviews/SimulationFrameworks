@@ -15,13 +15,15 @@ Download the repo JavaSim from [This link](https://github.com/nmcl/JavaSim) and 
 place the jar inside the folder "JavaSim". 
 Build the maven project and run the application
 
+# JaamSim
+
 
 # SimJulia
 
 
-# SSj
-
+# SSJ
+The SSJ file was run by cloning the SSJ repository from the following [LINK](https://github.com/umontreal-simul/ssj), copying the file into the project and running the main method from the IntelliJ IDEA. The simulation was run based on code cloned 25/3/2021. The Simulation was run based on a Jar compiled by the IntelliJ IDEA with entry point in the simulation file. 
 
 # SimPy
+A standard Python@3 virtual environment with SimPy installed
 
-#
