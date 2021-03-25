@@ -8,4 +8,8 @@ The folder structure is divided into each framework which is being reviewed with
 
 # Javasim
 
-In order to run Javasim
+In order to run Javasim clone the repo and navigate to the javasim folder. 
+Download the repo JavaSim from [This link](https://github.com/nmcl/JavaSim)  and put it inside the folder. 
+Build the maven project and run the application
+
+
